@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Arduino: A Simple Platform for Learning Electronics",
+    "category": "Arduino",
+    "content": "Arduino is an open-source electronics platform that combines easy-to-use hardware and software. An Arduino board can read inputs from sensors, buttons, and other devices and control outputs such as LEDs, motors, and displays. It is widely used by students, hobbyists, and engineers to develop prototypes and educational projects. Arduino programming is based on a simplified version of C/C++, making it suitable for beginners. It is commonly used in robotics, automation, environmental monitoring, smart devices, and IoT applications. Due to its low cost, simplicity, and large community support, Arduino provides an excellent starting point for learning electronics, programming, and embedded systems."
+  },
+  {
+    "id": 2,
+    "title": "Raspberry Pi: A Compact Computer for Smart Projects",
+    "category": "Raspberry Pi",
+    "content": "Raspberry Pi is a small, affordable single-board computer developed to promote computer education and programming. Unlike simple microcontroller boards, Raspberry Pi can run operating systems such as Linux and perform tasks similar to a desktop computer. It supports programming languages including Python, C, and JavaScript. Raspberry Pi can connect to cameras, sensors, displays, motors, and other electronic components through its GPIO pins. It is widely used for home automation, robotics, media centers, servers, coding projects, and Internet of Things applications. Its compact size, powerful capabilities, and extensive community support make it a valuable platform for students, developers, researchers, and technology enthusiasts."
+  },
+  {
+    "id": 3,
+    "title": "NVIDIA Jetson Nano: AI at the Edge",
+    "category": "Jetson Nano",
+    "content": "NVIDIA Jetson Nano is a compact single-board computer designed for artificial intelligence and machine-learning applications. It provides powerful GPU-based computing capabilities while consuming relatively little power. Jetson Nano can process images, video, and sensor data locally, making it useful for edge-AI applications. It is commonly used for robotics, computer vision, object detection, autonomous systems, and smart surveillance. Developers can use popular frameworks and libraries such as Python, OpenCV, and NVIDIA’s AI tools to create intelligent applications. With its combination of computing power, GPU acceleration, and compact design, Jetson Nano is an excellent platform for students, researchers, and developers exploring practical artificial intelligence and robotics."
+  },
+  {
+    "id": 4,
+    "title": "ESP32: A Powerful Microcontroller for IoT Projects",
+    "category": "ESP32",
+    "content": "ESP32 is a low-cost, powerful microcontroller developed by Espressif Systems. It features built-in Wi-Fi and Bluetooth, making it ideal for Internet of Things applications. ESP32 can connect with sensors, displays, motors, and other electronic devices. It is widely used in smart home automation, robotics, environmental monitoring, wearable devices, and wireless control systems. The board supports programming through Arduino IDE and other development platforms. Its low power consumption, wireless connectivity, processing capability, and affordable price make ESP32 an excellent choice for students, hobbyists, and developers who want to build connected and intelligent electronic projects."
+  }
+]
