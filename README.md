@@ -1,8 +1,7 @@
 # React + Vite
 # React blog UI(MINI PROJECT) 
-   Develop a small React-based blog layout displaying post cards from a JSON file.
-   
-   Add search and filter functionality.
+   Developed a small React-based blog layout displaying post cards from a JSON file.
+   Added search and filter functionality.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
