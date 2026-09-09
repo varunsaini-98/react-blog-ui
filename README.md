@@ -5,7 +5,7 @@
 
 
 # Assignments:
-1.Portfolio =  https://github.com/varunsaini-98/portfolio.git
+1.Portfolio =  https://github.com/varunsaini-98/portfolio.git .
 2.React Reusable Components = https://github.com/varunsaini-98/react-components.git
 
 
