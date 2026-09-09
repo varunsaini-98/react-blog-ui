@@ -1,5 +1,5 @@
 # React blog UI(MINI PROJECT) 
-  # Developed a small React-based blog layout displaying post cards from a JSON file. Added search and filter functionality.(React + Vite)
+  ## Developed a small React-based blog layout displaying post cards from a JSON file. Added search and filter functionality.(React + Vite)
 
 
 ## Assignments:
