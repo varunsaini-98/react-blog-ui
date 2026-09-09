@@ -1,13 +1,11 @@
-# React + Vite
 # React blog UI(MINI PROJECT) 
    Developed a small React-based blog layout displaying post cards from a JSON file.
-   Added search and filter functionality.
+   Added search and filter functionality.(React + Vite)
 
 
 # Assignments:
-1.Portfolio =  https://github.com/varunsaini-98/portfolio.git .
-2.React Reusable Components = https://github.com/varunsaini-98/react-components.git
-
+## Portfolio =  https://github.com/varunsaini-98/portfolio.git .
+## React Reusable Components = https://github.com/varunsaini-98/react-components.git
 
 
 ## React Compiler
